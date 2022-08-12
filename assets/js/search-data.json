@@ -59,7 +59,13 @@
   
 
   
-      ,"page10": {
+  
+
+  
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://marietkd.github.io/my-natural-healing/robots.txt",
